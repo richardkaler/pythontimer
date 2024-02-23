@@ -1,4 +1,4 @@
-# Copyright 2023 Richard Kaler 
+# Copyright 2024 Richard Kaler 
 
 # This script is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License as published
