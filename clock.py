@@ -10,8 +10,8 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 # General Public License for more details.
 
-#NOTE: this script is straightforward - no bells and whistles. You simply run the code and a timer appears - which is sort of nifty in cases when you are in the CLI and have no GUI timer
-#I will make this fancier as time goes by. I already have a bash timer that includes a feature to set the timer to expire but I just wrote this on the fly. 
+#NOTE: this script is straightforward - no bells and whistles. You simply run the code and a clock appears - which is sort of nifty in cases when you are in the CLI and have no GUI clock
+#I will make this fancier as time goes by. I already have a bash clock that includes a feature to set the clock to expire but I just wrote this on the fly. 
 #This will work on both Windows and Linux but I have yet to test it on Windows. It does work well on Linux with Python3. I tested it on Ubuntu, Jammy Jellyfish, LTS. Code version: 22.04
 
 import datetime
